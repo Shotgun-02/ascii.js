@@ -93,4 +93,4 @@ image.onload = function(){
   output.appendChild(pre);
 };
 
-image.src = "image111.png";
+image.src = "image.png";
